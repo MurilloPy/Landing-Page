@@ -1,0 +1,48 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: inherit;
+    font-family: inherit;
+
+}
+
+:root{
+
+    background-color: rgb(196, 196, 196);
+
+}
+
+.box-info{
+
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.442);
+    position: relative;
+    left: 700px;
+    top: 200px;
+    border-radius: 5px;
+    width: 400px;
+    height: 200px;
+
+}
+
+
+
+#input-text{
+
+    color:red;
+
+}
+
+input{
+
+    width: 130px;
+    position: relative;
+    left:120px;
+    height: 30px;
+    background-color: rgba(192, 192, 192, 0);
+
+}
